@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nicolas Mengochea</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Argentina</h3>
 
-- 🔭 I’m currently working on **my stealth-mode Fintech Start-up. In charge of product design, web development and ML model deployment.**
+- 🤝 **I currently work as a Machine Learning Engineer at Marvik. A fast-growing company actually leading the implementation of IA solutions with business impact.**
 
-- 🤝 I’m looking forward to landing **my first remote job as a Machine Learning Engineer**
+- 🔭 I’m also currently working on:
+  -  **My stealth-mode Fintech Start-up. In charge of product design, web development and ML model deployment.**
 
 - 📫 How to reach me **nico.mengoo@gmail.com**
 
