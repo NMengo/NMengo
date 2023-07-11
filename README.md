@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas Mengochea</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Argentina</h3>
+<h3 align="center">A passionate developer and Machine Learning Engineer</h3>
 
-- 🤝 **I currently work as a Machine Learning Engineer at Marvik. A fast-growing company actually leading the implementation of IA solutions with business impact.**
+- 🤝 **I currently work as a MLE at Marvik. A fast-growing company actually leading the implementation of IA solutions with business impact.**
 
 - 🔭 I’m also currently working on:
   -  **My stealth-mode Fintech Start-up. In charge of product design, web development and ML model deployment.**
